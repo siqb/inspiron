@@ -13,3 +13,4 @@
 11. Additional drivers, change to NVIDIA
 12. Reboot, nomodeset no longer needed
 13. sudo apt install pm-utils && sudo pm-hibernate, then power up again - didnt work
+14. sudo prime-select intel, or use GUI - saves power and noise - replace "intel" with "nvidia" when needed
