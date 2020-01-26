@@ -14,3 +14,6 @@
 12. Reboot, nomodeset no longer needed
 13. sudo apt install pm-utils && sudo pm-hibernate, then power up again - didnt work
 14. sudo prime-select intel, or use GUI - saves power and noise - replace "intel" with "nvidia" when needed
+15. Reboot
+16. sudo apt install gnome-tweaks
+17. sudo apt install arc-theme
