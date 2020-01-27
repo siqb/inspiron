@@ -18,3 +18,4 @@
 16. sudo apt install gnome-tweaks
 17. sudo apt install arc-theme
 18. sudo apt install gnome-shell-extensions
+19. sudo vi /usr/share/gnome-shell/theme/ubuntu.css (edit lockDiaglogGroup)
