@@ -23,3 +23,5 @@
 21. sudo apt-get install python && sudo apt-get install python3
 22. sudo apt-get install pip-python && sudo apt-get install python3-pip
 23. wget https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh && bash Anaconda3-5.2.0-Linux-x86_64.sh
+24. sudo apt-get install git
+25. sudo apt-get install openssh-client && sudo apt-get install openssh-server
