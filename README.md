@@ -20,3 +20,6 @@
 18. sudo apt install gnome-shell-extensions
 19. Change themes
 20. sudo vi /usr/share/gnome-shell/theme/ubuntu.css (edit lockDiaglogGroup)
+21. sudo apt-get install python && sudo apt-get install python3
+22. sudo apt-get install pip-python && sudo apt-get install python3-pip
+23. wget https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh && bash Anaconda3-5.2.0-Linux-x86_64.sh
